@@ -1,0 +1,5 @@
+# Tested with Python 3.14; these pins require Python >=3.12.
+numpy==2.5.3
+opencv-python-headless==5.0.0.93
+matplotlib==3.11.2
+ipykernel==7.3.0
