@@ -1,0 +1,12 @@
+{
+  "assignment": "IF-02",
+  "score_kind": "raw",
+  "max_score": 100,
+  "penalty_mode": "linear",
+  "start": "2026-09-28T23:59:00+03:00",
+  "due": "2026-10-05T23:59:00+03:00",
+  "penalty_window_days": 7,
+  "grace_days": 0,
+  "start_semantics": "Calculation reference: due minus seven days; issued on 2026-09-28",
+  "timestamp_source": "Google Drive accepted version receipt; never local mtime"
+}

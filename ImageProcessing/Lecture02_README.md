@@ -45,6 +45,10 @@ Topics and sequence follow those original notebooks. They remain unchanged.
 
 ## Домашняя работа / Homework
 
-Упражнения в конце ноутбука относятся к практике. Текущее ДЗ: [Task0_Numpy](../Tasks/Task0_Numpy.ipynb). Task1_ImageProcessing выдаётся после лекции о фильтрации. Эта практика не добавляет новых сроков или баллов.
+[ДЗ к лекции 02 — Image Formation, RU/EN](../Tasks/Task_Lecture02_ImageFormation_RU_EN.ipynb).
 
-The final exercises are lecture practice. The current assignment is Task0_Numpy. Task1_ImageProcessing follows the filtering lecture. This practice introduces no additional deadline or grading scale.
+**IF-02 · 100 баллов / points · срок / due 05.10.2026 23:59 МСК / Moscow.**
+Четыре функции: мир → камера, проекция, гомография по четырём точкам, пересчёт K после resize → crop. / Four functions: world-to-camera, projection, four-point homography, and intrinsics after resize → crop.
+
+[Срок и штраф / Deadline and penalty](../Tasks/Task_Lecture02_2026_policy.json). Дополнительного запаса нет. / No additional grace period.
+Это отдельное задание второй лекции; Task1_ImageProcessing относится к третьей. / This is the lecture 2 assignment; Task1_ImageProcessing belongs to lecture 3.
