@@ -1,0 +1,8 @@
+{
+  "assignment": "FD-04",
+  "lecture": 4,
+  "max_score": 100,
+  "score_kind": "raw",
+  "deadline_source": "https://docs.google.com/spreadsheets/d/15N5GGHujXPAzRNuyOfmooT7A7sKhXgrMfWHkUkvYYiM/edit",
+  "late_penalty_application": "External checker using verified submission timestamp and the course policy; not notebook execution time"
+}
