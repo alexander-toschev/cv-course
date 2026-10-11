@@ -10,6 +10,7 @@
 | 02 · Формирование изображения / Image Formation | [Практика и ДЗ / Practice and homework](Lectures/02_ImageFormation/) | [Google Drive](https://drive.google.com/drive/folders/1T4cM3e_6mUcuvqEytXGrzh-iKA7fePEl) |
 | 03 · Обработка изображений / Image Processing | [Практика и ДЗ / Practice and homework](Lectures/03_ImageProcessing/) | [Google Drive](https://drive.google.com/drive/folders/1am5q3mJQSYRwQuSVpSgTeeqt-9pSyvyb) |
 | 04 · Выделение ключевых особенностей / Feature Detection | [Практика и ДЗ / Practice and homework](Lectures/04_FeatureDetection/) | [Google Drive](https://drive.google.com/drive/folders/1tlu7th5LYJrTUFQvCuAe7oh_d9cvM_MW) |
+| 05 · Сопоставление особенностей / Feature Matching | [Практика и ДЗ / Practice and homework](Lectures/05_FeatureMatching/) | [Google Drive](https://drive.google.com/drive/folders/1CpGu_Q-neSpihA_YZs84ZY-h7kr15fvo) |
 
 [Чеклист комплекта / Release checklist](CHECKLIST.md).
 

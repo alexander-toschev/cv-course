@@ -21,3 +21,13 @@
 - [x] Отдельное ДЗ №4 RU/EN / Separate homework 4 RU/EN, FD-04, 100 points.
 
 Комплекты 01–03 сохранены как ранее выпущенные; соответствие старых примеров новому правилу реальных датасетов не заявляется. / Releases 01–03 are preserved; their legacy examples are not claimed to meet the new real-data rule.
+
+## Лекция 05 / Lecture 05
+
+- [x] Презентации RU/EN / Slides RU/EN, 20 slides each, Google Drive.
+- [x] Видеолекции RU/EN / Videos RU/EN, 30 minutes including labelled practice pauses.
+- [x] Практика RU/EN / Practice RU/EN, four tasks on Oxford graf, leuven, wall, bikes.
+- [x] Отдельное ДЗ RU/EN / Separate homework RU/EN, Feature_Matching_Autograder v2, 100 raw points.
+- [x] Настройка и проверка на разных сценах, SHA-256 загрузок, CPU. / Scene-separated tuning and evaluation, SHA-256 downloads, CPU.
+- [x] Проверка кода: эталон 100, пустое решение 0, четыре ошибочных реализации отклонены. / Code validation: reference 100, blank 0, four mutants rejected.
+- [x] Сроки из матрицы; практика лекции 5 учитывается внешним проверяющим. / Matrix deadlines; lecture 5 practice is handled externally.
