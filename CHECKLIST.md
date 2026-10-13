@@ -31,3 +31,5 @@
 - [x] Настройка и проверка на разных сценах, SHA-256 загрузок, CPU. / Scene-separated tuning and evaluation, SHA-256 downloads, CPU.
 - [x] Проверка кода: эталон 100, пустое решение 0, четыре ошибочных реализации отклонены. / Code validation: reference 100, blank 0, four mutants rejected.
 - [x] Сроки из матрицы; практика лекции 5 учитывается внешним проверяющим. / Matrix deadlines; lecture 5 practice is handled externally.
+
+Обновление 2026-10-13, лекция 04: после каждого раздела 1–9 практики добавлены мини-задания RU/EN на 5–10 минут (60 минут суммарно); прежняя версия сохранена в Archive/Lecture04_before_mini_tasks_2026-10-13. / Lecture 04 update: sections 1–9 now each end with a bilingual 5–10 minute mini-task (60 minutes total); previous notebook archived.

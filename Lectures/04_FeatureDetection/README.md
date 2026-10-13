@@ -19,3 +19,5 @@
 Учебная метрика не равна официальному BSDS benchmark. / The teaching metric is not the official BSDS benchmark.
 
 Темы исходных материалов преподавателя сохранены. Обновления 2026: фиксированный реальный датасет, проверяемая загрузка, корректные производные, современный API и разделение validation/test. / Instructor topics are retained. 2026 updates add fixed real data, verified downloads, correct derivatives, current APIs and validation/test separation.
+
+После каждого из разделов 1–9 практики добавлено мини-задание на 5–10 минут с местом для решения и ожидаемым результатом. Все задания RU/EN используют тот же BSDS500; суммарно 60 минут. / Each practice section 1–9 ends with a 5–10 minute bilingual mini-task, a workspace and an expected deliverable. Tasks use the same BSDS500 data; total time is 60 minutes.
