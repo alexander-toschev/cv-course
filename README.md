@@ -12,6 +12,8 @@
 | 04 · Выделение ключевых особенностей / Feature Detection | [Практика и ДЗ / Practice and homework](Lectures/04_FeatureDetection/) | [Google Drive](https://drive.google.com/drive/folders/1tlu7th5LYJrTUFQvCuAe7oh_d9cvM_MW) |
 | 05 · Сопоставление особенностей / Feature Matching | [Практика и ДЗ / Practice and homework](Lectures/05_FeatureMatching/) | [Google Drive](https://drive.google.com/drive/folders/1CpGu_Q-neSpihA_YZs84ZY-h7kr15fvo) |
 
+| 06 · Основы нейросетей / Neural Network Basics | [Практика и ДЗ / Practice and homework](Lectures/06_NeuralNetworkBasics/) | [Google Drive](https://drive.google.com/drive/folders/17I7napof99mLcIdW9xF3M5DbYdVPtncQ) |
+
 [Чеклист комплекта / Release checklist](CHECKLIST.md).
 
 ## Archive

@@ -33,3 +33,13 @@
 - [x] Сроки из матрицы; практика лекции 5 учитывается внешним проверяющим. / Matrix deadlines; lecture 5 practice is handled externally.
 
 Обновление 2026-10-13, лекция 04: после каждого раздела 1–9 практики добавлены мини-задания RU/EN на 5–10 минут (60 минут суммарно); прежняя версия сохранена в Archive/Lecture04_before_mini_tasks_2026-10-13. / Lecture 04 update: sections 1–9 now each end with a bilingual 5–10 minute mini-task (60 minutes total); previous notebook archived.
+
+## Лекция 06 / Lecture 06
+
+- [x] Презентации RU/EN: по 20 слайдов / 20 slides each, Google Drive.
+- [x] Видео RU 14:02, EN 13:44, слайды и локальная синтетическая озвучка; без искусственных пауз / slides and local synthetic narration, no artificial pauses.
+- [x] Практика RU/EN: UCI Digits, 8 тем с мини-заданиями / eight topics with mini-tasks.
+- [x] Отдельное ДЗ 06 RU/EN: NN-06, 100 raw points.
+- [x] Полный CPU-запуск; эталон 100, пустое решение 0; 5 мутаций обнаружены / full CPU run, reference 100, blank 0, five mutants detected.
+- [x] Сроки: столбец G; практика: H / deadlines column G, practice column H.
+- [x] Ограничения учебного split и отсутствие writer IDs указаны / teaching split and missing writer IDs documented.
