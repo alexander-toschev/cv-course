@@ -37,7 +37,7 @@
 ## Лекция 06 / Lecture 06
 
 - [x] Презентации RU/EN: по 20 слайдов / 20 slides each, Google Drive.
-- [x] Видео RU 14:02, EN 13:44, слайды и локальная синтетическая озвучка; без искусственных пауз / slides and local synthetic narration, no artificial pauses.
+- [x] Видео RU 14:41, EN 13:12, слайды и озвучка ElevenLabs; без искусственных пауз / slides and ElevenLabs narration, no artificial pauses.
 - [x] Практика RU/EN: UCI Digits, 8 тем с мини-заданиями / eight topics with mini-tasks.
 - [x] Отдельное ДЗ 06 RU/EN: NN-06, 100 raw points.
 - [x] Полный CPU-запуск; эталон 100, пустое решение 0; 5 мутаций обнаружены / full CPU run, reference 100, blank 0, five mutants detected.
