@@ -1,6 +1,7 @@
 # 05. Сопоставление особенностей / Feature Matching
 
 - [Практика / Practice RU/EN](Practice_RU_EN.ipynb) · [Colab](https://colab.research.google.com/github/alexander-toschev/cv-course/blob/main/Lectures/05_FeatureMatching/Practice_RU_EN.ipynb)
+- [Практика с решениями / Worked practice RU/EN](Practice_Solutions_RU_EN.ipynb) · [Colab](https://colab.research.google.com/github/alexander-toschev/cv-course/blob/main/Lectures/05_FeatureMatching/Practice_Solutions_RU_EN.ipynb)
 - [ДЗ / Homework RU/EN](Homework_RU_EN.ipynb) · [Colab](https://colab.research.google.com/github/alexander-toschev/cv-course/blob/main/Lectures/05_FeatureMatching/Homework_RU_EN.ipynb)
 - [Презентации, видео и тексты RU/EN / Slides, videos and scripts](https://drive.google.com/drive/folders/1CpGu_Q-neSpihA_YZs84ZY-h7kr15fvo)
 

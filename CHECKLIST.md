@@ -43,3 +43,5 @@
 - [x] Полный CPU-запуск; эталон 100, пустое решение 0; 5 мутаций обнаружены / full CPU run, reference 100, blank 0, five mutants detected.
 - [x] Сроки: столбец G; практика: H / deadlines column G, practice column H.
 - [x] Ограничения учебного split и отсутствие writer IDs указаны / teaching split and missing writer IDs documented.
+
+Обновление 2026-10-19: для лекции 05 добавлен отдельный Practice_Solutions_RU_EN.ipynb с решениями четырёх заданий и пояснениями RU/EN. / Lecture 05 now includes a separate worked-solutions notebook for all four in-class tasks.
