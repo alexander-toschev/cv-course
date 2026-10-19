@@ -48,3 +48,5 @@ ID `Feature_Matching_Autograder`, version 2, 100 raw points. Номер лекц
 Сохранены темы авторских FD_SIFT, FD_ORB и OpenCV_ImageStitching, находящихся в Archive. Обновление 2026: реальные серии Oxford, проверка загрузки, независимая геометрия, разделение сцен, явная обработка неудачной оценки H и отдельное ДЗ. / Instructor topics from archived SIFT, ORB and stitching notebooks are retained. The 2026 revision adds real Oxford sequences, verified downloads, independent geometry, scene separation, explicit failure handling and separate homework.
 
 Видеоверсии: 30 минут с явно обозначенными паузами для практики. Озвучка синтезирована согласованным голосом преподавателя; отдельные MP3 содержат только речь. / Videos run 30 minutes including labelled practice pauses. Narration uses the approved synthetic instructor voice; standalone MP3s contain speech only.
+
+В разборе практики сохранены иллюстрации validation/test и пример RANSAC: исходные matches, inliers, отклонённые matches и выравнивание фотографий. / Worked solutions include validation/test photo previews and a RANSAC example with initial matches, inliers, rejected matches and image alignment.

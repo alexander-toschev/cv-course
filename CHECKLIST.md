@@ -45,3 +45,5 @@
 - [x] Ограничения учебного split и отсутствие writer IDs указаны / teaching split and missing writer IDs documented.
 
 Обновление 2026-10-19: для лекции 05 добавлен отдельный Practice_Solutions_RU_EN.ipynb с решениями четырёх заданий и пояснениями RU/EN. / Lecture 05 now includes a separate worked-solutions notebook for all four in-class tasks.
+
+Лекция 05, разбор практики: добавлены сохранённые фотографии validation/test и визуальный пример RANSAC; прежний разбор сохранён в Archive/Lecture05_solutions_before_photos_2026-10-19. / Lecture 05 worked solutions now include embedded validation/test photographs and a visual RANSAC example; previous solutions archived.
