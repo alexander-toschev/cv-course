@@ -47,3 +47,15 @@
 Обновление 2026-10-19: для лекции 05 добавлен отдельный Practice_Solutions_RU_EN.ipynb с решениями четырёх заданий и пояснениями RU/EN. / Lecture 05 now includes a separate worked-solutions notebook for all four in-class tasks.
 
 Лекция 05, разбор практики: добавлены сохранённые фотографии validation/test и визуальный пример RANSAC; прежний разбор сохранён в Archive/Lecture05_solutions_before_photos_2026-10-19. / Lecture 05 worked solutions now include embedded validation/test photographs and a visual RANSAC example; previous solutions archived.
+
+## Лекция 07 / Lecture 07
+
+- [x] Презентации RU/EN: по 20 слайдов, Google Slides и PPTX / 20 slides each, Google Slides and PPTX.
+- [x] Видео RU 15:46, EN 13:30, слайды и озвучка, без искусственных пауз / narrated slide videos without artificial pauses.
+- [x] Практика RU/EN: реальные UCI Digits, семь тем и подробные мини-задания / real UCI Digits, seven topics and detailed mini-tasks.
+- [x] Отдельный выполненный ноутбук решений: каждая строка кода прокомментирована RU/EN / separate executed solutions, every code line commented RU/EN.
+- [x] Отдельное ДЗ 07 RU/EN: CNN-07, 100 raw points.
+- [x] Полный CPU-запуск; эталон 100, пустое решение 0, пять ошибочных реализаций обнаружены / full CPU run, reference 100, blank 0, five mutants detected.
+- [x] Все 40 слайдов проверены визуально до и после импорта; оба видео полностью декодированы / all 40 slides visually checked before and after import; both videos fully decoded.
+- [x] Сроки: H; практика: I; даты заполняет преподаватель / deadlines H, practice I; instructor enters dates.
+- [x] Ограничения writer IDs, повторного использования данных и учебного split указаны / writer-ID, data-reuse and teaching-split limitations documented.

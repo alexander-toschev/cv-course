@@ -11,8 +11,8 @@
 | 03 · Обработка изображений / Image Processing | [Практика и ДЗ / Practice and homework](Lectures/03_ImageProcessing/) | [Google Drive](https://drive.google.com/drive/folders/1am5q3mJQSYRwQuSVpSgTeeqt-9pSyvyb) |
 | 04 · Выделение ключевых особенностей / Feature Detection | [Практика и ДЗ / Practice and homework](Lectures/04_FeatureDetection/) | [Google Drive](https://drive.google.com/drive/folders/1tlu7th5LYJrTUFQvCuAe7oh_d9cvM_MW) |
 | 05 · Сопоставление особенностей / Feature Matching | [Практика и ДЗ / Practice and homework](Lectures/05_FeatureMatching/) | [Google Drive](https://drive.google.com/drive/folders/1CpGu_Q-neSpihA_YZs84ZY-h7kr15fvo) |
-
 | 06 · Основы нейросетей / Neural Network Basics | [Практика и ДЗ / Practice and homework](Lectures/06_NeuralNetworkBasics/) | [Google Drive](https://drive.google.com/drive/folders/17I7napof99mLcIdW9xF3M5DbYdVPtncQ) |
+| 07 · Свёрточные сети / Convolutional Networks | [Практика, решения и ДЗ / Practice, solutions and homework](Lectures/07_ConvolutionalNetworks/) | [Google Drive](https://drive.google.com/drive/folders/11myHqGJ6uaC-2waMXGserxIV8OOFDVDh) |
 
 [Чеклист комплекта / Release checklist](CHECKLIST.md).
 
