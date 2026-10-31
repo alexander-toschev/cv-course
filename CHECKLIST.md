@@ -59,3 +59,14 @@
 - [x] Все 40 слайдов проверены визуально до и после импорта; оба видео полностью декодированы / all 40 slides visually checked before and after import; both videos fully decoded.
 - [x] Сроки: H; практика: I; даты заполняет преподаватель / deadlines H, practice I; instructor enters dates.
 - [x] Ограничения writer IDs, повторного использования данных и учебного split указаны / writer-ID, data-reuse and teaching-split limitations documented.
+
+## Лекция 08 / Lecture 08
+
+- [x] Презентации RU/EN: по 35 слайдов, Google Slides и PDF / 35 slides each, Google Slides and PDF.
+- [x] Видео RU 30:41, EN 30:09, слайды и ElevenLabs с настройками PR; без искусственных пауз / narrated videos using PR voice settings, no artificial pauses.
+- [x] Практика RU/EN: четыре подробных задания с проверками на реальных UCI Digits / four detailed exercises with executable checks on real UCI Digits.
+- [x] Выполненные преподавательские ответы в закрытой папке Drive, каждая непустая строка кода с RU/EN-комментарием / executed private instructor answers, every nonempty code line commented RU/EN.
+- [x] Отдельное ДЗ 08 RU/EN: ORTH-08, 100 исходных баллов / raw points.
+- [x] CPU-проверка: эталон 100, пустой шаблон 0, пять ошибочных реализаций обнаружены / reference 100, blank 0, five mutants detected.
+- [x] Сроки I, практика J; даты заполняет преподаватель / deadlines I, practice J; instructor enters dates.
+- [x] Указаны источник, отсутствие writer IDs и ограничения повторного использования данных / source, missing writer IDs and data reuse limitations documented.
