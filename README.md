@@ -13,8 +13,8 @@
 | 05 · Сопоставление особенностей / Feature Matching | [Практика и ДЗ / Practice and homework](Lectures/05_FeatureMatching/) | [Google Drive](https://drive.google.com/drive/folders/1CpGu_Q-neSpihA_YZs84ZY-h7kr15fvo) |
 | 06 · Основы нейросетей / Neural Network Basics | [Практика и ДЗ / Practice and homework](Lectures/06_NeuralNetworkBasics/) | [Google Drive](https://drive.google.com/drive/folders/17I7napof99mLcIdW9xF3M5DbYdVPtncQ) |
 | 07 · Свёрточные сети / Convolutional Networks | [Практика, решения и ДЗ / Practice, solutions and homework](Lectures/07_ConvolutionalNetworks/) | [Google Drive](https://drive.google.com/drive/folders/11myHqGJ6uaC-2waMXGserxIV8OOFDVDh) |
-
 | 08 · Цикл ML и ортогонализация / ML Cycle and Orthogonalization | [Практика и ДЗ / Practice and homework](Lectures/08_MLCycle_Orthogonalization/) | [Google Drive](https://drive.google.com/drive/folders/1w6vOmboM1Vbb-vCi7pn5EzsFFMD7trt0) |
+| 09 · Цели проекта и метрики / Project Goals and Metrics | [Практика и ДЗ / Practice and homework](Lectures/09_ProjectGoals_Metrics/) | [Google Drive](https://drive.google.com/drive/folders/1I5QcwDqJ3WXhSC2duCKGleIbI3Ja3LS8) |
 
 [Чеклист комплекта / Release checklist](CHECKLIST.md).
 

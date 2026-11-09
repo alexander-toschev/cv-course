@@ -70,3 +70,15 @@
 - [x] CPU-проверка: эталон 100, пустой шаблон 0, пять ошибочных реализаций обнаружены / reference 100, blank 0, five mutants detected.
 - [x] Сроки I, практика J; даты заполняет преподаватель / deadlines I, practice J; instructor enters dates.
 - [x] Указаны источник, отсутствие writer IDs и ограничения повторного использования данных / source, missing writer IDs and data reuse limitations documented.
+
+## Лекция 09 / Lecture 09
+
+- [x] Презентации RU/EN, по 36 слайдов; Google Slides и PDF / 36 slides per language, Google Slides and PDF.
+- [x] Видео RU 30:26, EN 30:24, ElevenLabs с настройками PR, без искусственных пауз / PR voice settings, no artificial pauses.
+- [x] Реальный CIFAR-10, четыре подробных задания практики с проверками / real CIFAR-10, four detailed practice exercises with checks.
+- [x] Отдельное ДЗ MET-09, 100 баллов / separate homework, 100 raw points.
+- [x] Преподавательский ноутбук выполнен; 105 непустых строк кода с RU/EN-комментариями; закрытый Drive / executed private instructor notebook, 105 nonempty code lines commented RU/EN.
+- [x] Эталон100, пустое решение0, четыре дефектные реализации обнаружены / reference100, blank0, four faulty implementations detected.
+- [x] Все72 слайда просмотрены после импорта; диаграммы связаны с редактируемой Google Sheets / all72 imported slides reviewed, linked editable charts.
+- [x] Оба видео полностью декодированы без ошибок / both videos fully decoded without errors.
+- [x] Сроки J; практика K; даты вводит преподаватель / deadline J, practice K, instructor enters dates.
