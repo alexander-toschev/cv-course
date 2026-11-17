@@ -3,7 +3,7 @@
 - [Практика RU/EN / Practice RU/EN](Practice_RU_EN.ipynb) · четыре задания по 5–10 минут / four 5–10 minute exercises.
 - [ДЗ №10 RU/EN / Homework 10 RU/EN](Homework_RU_EN.ipynb) · **ERR-10**, 4 × 25 = 100.
 - [Презентации и сценарии RU/EN / Slides and scripts RU/EN](https://drive.google.com/drive/folders/1104cKQeEH3Y9f8f75oDU7pKP28fIS7Xh).
-- Видео RU/EN ожидают восстановления квоты ElevenLabs; полный комплект пока не завершён. / Narrated videos await ElevenLabs quota restoration; the release is not yet complete.
+- Видеолекция / Narrated video: [RU · 30:28](https://drive.google.com/file/d/1ogCVwR_DZh9MNHA1PzjlMiu2oSF3xYCL/view) · [EN · 30:01](https://drive.google.com/file/d/1NmQHTWPN6Ok95sT-kMZA6CEI-I32vkIE/view). Full HD, 37 chapters, ElevenLabs.
 
 ## Запуск / Run
 Open either notebook in Colab and run top to bottom on CPU. Python, NumPy, pandas, scikit-learn, matplotlib. The notebook downloads the official UCI ZIP once and verifies SHA-256. No Google authentication or writes. / Откройте в Colab, выполняйте сверху вниз на CPU. Архив UCI скачивается один раз с проверкой SHA-256. Авторизация Google и запись оценок из ноутбука не требуются.

@@ -15,7 +15,7 @@
 | 07 · Свёрточные сети / Convolutional Networks | [Практика, решения и ДЗ / Practice, solutions and homework](Lectures/07_ConvolutionalNetworks/) | [Google Drive](https://drive.google.com/drive/folders/11myHqGJ6uaC-2waMXGserxIV8OOFDVDh) |
 | 08 · Цикл ML и ортогонализация / ML Cycle and Orthogonalization | [Практика и ДЗ / Practice and homework](Lectures/08_MLCycle_Orthogonalization/) | [Google Drive](https://drive.google.com/drive/folders/1w6vOmboM1Vbb-vCi7pn5EzsFFMD7trt0) |
 | 09 · Цели проекта и метрики / Project Goals and Metrics | [Практика и ДЗ / Practice and homework](Lectures/09_ProjectGoals_Metrics/) | [Google Drive](https://drive.google.com/drive/folders/1I5QcwDqJ3WXhSC2duCKGleIbI3Ja3LS8) |
-| 10 · Анализ ошибок / Error analysis | [Практика и ДЗ / Practice and homework](Lectures/10_ErrorAnalysis/) | [Slides / scripts — video pending](https://drive.google.com/drive/folders/1104cKQeEH3Y9f8f75oDU7pKP28fIS7Xh) |
+| 10 · Анализ ошибок / Error analysis | [Практика и ДЗ / Practice and homework](Lectures/10_ErrorAnalysis/) | [Slides / scripts / videos RU/EN](https://drive.google.com/drive/folders/1104cKQeEH3Y9f8f75oDU7pKP28fIS7Xh) |
 
 [Чеклист комплекта / Release checklist](CHECKLIST.md).
 

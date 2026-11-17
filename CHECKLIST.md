@@ -84,11 +84,11 @@
 - [x] Сроки J; практика K; даты вводит преподаватель / deadline J, practice K, instructor enters dates.
 
 
-## Лекция 10 / Lecture 10 — partial release 2026-11-15
+## Лекция 10 / Lecture 10 — completed release 2026-11-17
 
 - [x] Презентации RU/EN, 37 слайдов / RU/EN slides, 37 each, Google Drive.
-- [x] Сценарии на ~30 минут / Scripts target ~30 minutes; actual audio duration pending.
-- [ ] Видео RU/EN: ElevenLabs quota_exceeded; не завершено / Videos blocked by ElevenLabs quota.
+- [x] Видео RU 30:28, EN 30:01; без искусственных пауз / No artificial pauses.
+- [x] Видео RU/EN в Google Drive: 1920×1080, 37 глав, ElevenLabs; полное декодирование без ошибок / Full decode passed.
 - [x] Практика RU/EN, 4 задания по 5–10 минут / Four short coding tasks.
 - [x] Отдельное ДЗ ERR-10 / Separate 100-point homework.
 - [x] Выполненный преподавательский ноутбук с RU/EN-комментариями каждой строки, только в закрытом Google Drive / Executed instructor solutions, every code line commented RU/EN, private Drive only.
