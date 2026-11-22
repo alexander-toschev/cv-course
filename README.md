@@ -17,6 +17,8 @@
 | 09 · Цели проекта и метрики / Project Goals and Metrics | [Практика и ДЗ / Practice and homework](Lectures/09_ProjectGoals_Metrics/) | [Google Drive](https://drive.google.com/drive/folders/1I5QcwDqJ3WXhSC2duCKGleIbI3Ja3LS8) |
 | 10 · Анализ ошибок / Error analysis | [Практика и ДЗ / Practice and homework](Lectures/10_ErrorAnalysis/) | [Slides / scripts / videos RU/EN](https://drive.google.com/drive/folders/1104cKQeEH3Y9f8f75oDU7pKP28fIS7Xh) |
 
+| 12 · Сегментация изображений / Image segmentation | [Практика и ДЗ / Practice and homework](Lectures/12_ImageSegmentation/) | [Slides / scripts / videos RU/EN](https://drive.google.com/drive/folders/17BAJaRtJK-q8h6qtFgnQG6FWEHELg2BT) |
+
 [Чеклист комплекта / Release checklist](CHECKLIST.md).
 
 ## Archive

@@ -93,3 +93,16 @@
 - [x] Отдельное ДЗ ERR-10 / Separate 100-point homework.
 - [x] Выполненный преподавательский ноутбук с RU/EN-комментариями каждой строки, только в закрытом Google Drive / Executed instructor solutions, every code line commented RU/EN, private Drive only.
 - [x] Реальный UCI Optical Digits; источник, лицензия, ограничения source/target / Real dataset with provenance and split limitations.
+
+## Лекция 12 / Lecture 12 — 2026-11-22
+
+- [x] Презентации RU/EN, по 32 слайда; Google Slides и PPTX / 32 slides per language, Google Slides and PPTX.
+- [x] Видео RU 30:22, EN 30:01, ElevenLabs с настройками PR; без искусственных пауз / PR voice settings, no artificial pauses.
+- [x] Оба видео полностью декодированы без ошибок, 32 главы / both videos fully decoded without errors, 32 chapters.
+- [x] Реальный Oxford-IIIT Pet; четыре подробных задания практики с проверками / real Oxford-IIIT Pet, four detailed practice exercises with checks.
+- [x] Отдельное ДЗ SEG-12, 100 баллов, независимые блоки проверок и частичный балл / separate SEG-12 homework, independent checks and partial credit.
+- [x] Преподавательский ноутбук выполнен, все непустые строки кода прокомментированы RU/EN; закрытый Drive / executed private instructor solutions with RU/EN comments on every nonempty code line.
+- [x] Дополнительный выполненный эксперимент Tiny U-Net: отрицательный результат сохранён и объяснён / additional executed Tiny U-Net experiment with documented failure.
+- [x] Эталон прошёл home-work-checker / reference passed home-work-checker.
+- [x] Сроки M; практика N; даты вводит преподаватель / deadline M, practice N, instructor enters dates.
+- [x] Указаны условия данных, разбиение, ignore-политика и ограничения сравнения / data terms, splits, ignored-region policy and comparison limitations documented.
