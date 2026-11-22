@@ -106,3 +106,9 @@
 - [x] Эталон прошёл home-work-checker / reference passed home-work-checker.
 - [x] Сроки M; практика N; даты вводит преподаватель / deadline M, practice N, instructor enters dates.
 - [x] Указаны условия данных, разбиение, ignore-политика и ограничения сравнения / data terms, splits, ignored-region policy and comparison limitations documented.
+
+## Лекции 13 и 14 / Lectures 13 and 14 — 2026-11-22
+
+- [x] [Полный чеклист №13 / Full checklist 13](Lectures/13_ObjectTracking/CHECKLIST.md).
+- [x] [Полный чеклист №14 / Full checklist 14](Lectures/14_StereoReconstruction/CHECKLIST.md).
+- [x] Сокращённый план 10 → 12 → 13 → 14 полностью подготовлен / Shortened sequence fully prepared.

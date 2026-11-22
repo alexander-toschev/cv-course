@@ -16,8 +16,9 @@
 | 08 · Цикл ML и ортогонализация / ML Cycle and Orthogonalization | [Практика и ДЗ / Practice and homework](Lectures/08_MLCycle_Orthogonalization/) | [Google Drive](https://drive.google.com/drive/folders/1w6vOmboM1Vbb-vCi7pn5EzsFFMD7trt0) |
 | 09 · Цели проекта и метрики / Project Goals and Metrics | [Практика и ДЗ / Practice and homework](Lectures/09_ProjectGoals_Metrics/) | [Google Drive](https://drive.google.com/drive/folders/1I5QcwDqJ3WXhSC2duCKGleIbI3Ja3LS8) |
 | 10 · Анализ ошибок / Error analysis | [Практика и ДЗ / Practice and homework](Lectures/10_ErrorAnalysis/) | [Slides / scripts / videos RU/EN](https://drive.google.com/drive/folders/1104cKQeEH3Y9f8f75oDU7pKP28fIS7Xh) |
-
 | 12 · Сегментация изображений / Image segmentation | [Практика и ДЗ / Practice and homework](Lectures/12_ImageSegmentation/) | [Slides / scripts / videos RU/EN](https://drive.google.com/drive/folders/17BAJaRtJK-q8h6qtFgnQG6FWEHELg2BT) |
+| 13 · Трекинг объектов / Object tracking | [Практика и ДЗ / Practice and homework](Lectures/13_ObjectTracking/) | [Google Drive RU/EN](https://drive.google.com/drive/folders/1_ApZZSujyMgDlJibh3f8R-i5J3Qv_-q0) |
+| 14 · Стереозрение и 3D / Stereo vision and 3D | [Практика и ДЗ / Practice and homework](Lectures/14_StereoReconstruction/) | [Google Drive RU/EN](https://drive.google.com/drive/folders/14-Jn22aopc8-xKLTRez8u9R-5kp1pywI) |
 
 [Чеклист комплекта / Release checklist](CHECKLIST.md).
 
